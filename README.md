@@ -1,2 +1,2 @@
-# PRODIGY_GA_1
-Text Generation with GPT-2
+# Text Generation with GPT-2
+This repository demonstrates the use of OpenAI's GPT-2 model for text generation utilizing the Hugging Face Transformers library. It covers the entire process, from setting up the model and tokenizer to encoding input text and generating creative outputs. The project requires Python 3.x, PyTorch, and the Transformers library. After installing the necessary modules, users can import the relevant components, initialize the GPT-2 model and tokenizer, and encode their input text for processing. The model generates text using various decoding strategies, allowing for customization of parameters such as maximum text length, sampling methods, beam search, and repetition prevention. The project is licensed under the MIT License. Special acknowledgment is given to the Hugging Face Transformers library and OpenAI for the GPT-2 model.
